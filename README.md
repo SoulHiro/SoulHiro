@@ -1,10 +1,11 @@
 ### 💎 I'm The Original 💎
 
 <html>
-  [![MasterHead](https://e0.pxfuel.com/wallpapers/24/216/desktop-wallpaper-poly-for-your-or-mobile-screen-and-easy-to-low-poly-landscape.jpg)](https://github.com/SoulHiro)
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Morning!;I'm+Victor)](https://git.io/typing-svg)
+  ![MasterHead](https://e0.pxfuel.com/wallpapers/24/216/desktop-wallpaper-poly-for-your-or-mobile-screen-and-easy-to-low-poly-landscape.jpg)](https://github.com/SoulHiro)
+  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Morning!;I'm+Victor)](https://git.io/typing-svg)
   
-  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormts.oficial)[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TTAaaU7hwr)
+  ![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victormts.oficial)
+  ![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TTAaaU7hwr)
 
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31mdnuapaap4u533qkrm3l46jkku&width=600)
 
