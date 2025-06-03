@@ -19,7 +19,8 @@
       <h4>🎯 Goals & Philosophy</h4>
       <p>Besides programming and design, I also study marketing and languages. My goal is to launch my own projects like SaaS and e-books, and grow the CenterCafé community more and more. I like to understand people's side of things and use that to create something that really stands out.</p>
       <br/>
-      <a href="https://www.instagram.com/victormts.oficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+      <a href="mailto:victormts.s1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-victormts.s1@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" />
+      </a>
       <a href="https://discord.gg/TTAaaU7hwr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   </td>
     <td align="center" width="50%" valign="top">
