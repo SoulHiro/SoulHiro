@@ -51,8 +51,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulHiro&layout=compact&theme=radical" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/SoulHiro/SoulHiro/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p> -->
+
+<p>
+  <img src="https://pacman.abozanona.me?username=SoulHiro" />
 </p>
 
 ---
