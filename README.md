@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoulHiro&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulHiro&layout=compact&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=SoulHiro" height="165" />
 </p>
 
 <!-- <p align="center">
