@@ -46,8 +46,9 @@
 
 ---
 
-<h2 align="center">🌟 Featured Project</h2>
+<h2 align="center">🌟 Featured Projects</h2>
 
+<!-- Projeto 1 -->
 <p align="center">
   <a href="https://doutorespalhacos.com/" target="_blank">
     <img src="https://img.shields.io/badge/Doutores%20Palhaços-FF4B4B?style=for-the-badge&logo=clownfish&logoColor=white" alt="Doutores Palhaços" />
@@ -60,6 +61,21 @@
 </p>
 
 ---
+
+<!-- Projeto 2 -->
+<p align="center">
+  <a href="https://github.com/SoulHiro/doutor-agenda" target="_blank">
+    <img src="https://img.shields.io/badge/Doutor%20Agenda-1E90FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Doutor Agenda" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Doutor Agenda</b> — an appointment scheduling system designed to simplify and optimize agenda management for professionals and organizations.  
+  Focused on <b>usability</b>, <b>efficiency</b>, and <b>modern UI/UX</b>, providing an intuitive experience for both administrators and clients.
+</p>
+
+---
+
 
 <!-- Stats -->
 <h2 align="center">📊 GitHub Info</h2>
