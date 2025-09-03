@@ -21,6 +21,9 @@
       <br/>
       <a href="mailto:victormts.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /> </a>
       <a href="https://discord.gg/TTAaaU7hwr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/victormts" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   </td>
     <td align="center" width="50%" valign="top">
       <h3>🎧 Spotify</h3>
@@ -39,6 +42,21 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,threejs" /><br/>
   <img src="https://skillicons.dev/icons?i=figma,ps,vscode,github,git,pnpm,discordjs" />
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Project</h2>
+
+<p align="center">
+  <a href="https://doutorespalhacos.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Doutores%20Palhaços-FF4B4B?style=for-the-badge&logo=clownfish&logoColor=white" alt="Doutores Palhaços" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Replatforming of the NGO SOS Bom Humor Doutores Palhaços website</b> — migrating from WordPress to a modern code-based application.  
+  This new version prioritizes <b>performance</b>, <b>accessibility</b>, <b>refined UI/UX</b>, and <b>efficient content management</b> to represent the NGO's mission with impact and professionalism.
 </p>
 
 ---
