@@ -81,8 +81,12 @@
 <h2 align="center">📊 GitHub Info</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulHiro&show_icons=true&theme=dark" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=SoulHiro&theme=dark" height="165" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=SoulHiro&show_icons=true&theme=dark"
+      height="165"
+    />
+  </a>
 </p>
 
 <!-- <p align="center">
