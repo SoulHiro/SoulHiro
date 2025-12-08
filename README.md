@@ -81,7 +81,13 @@
 <h2 align="center">📊 GitHub Info</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SoulHiro&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=SoulHiro&theme=dark&hide_border=true&short_numbers=true"
+      height="165"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <!-- <p align="center">
