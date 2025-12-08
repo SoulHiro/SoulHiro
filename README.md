@@ -81,13 +81,14 @@
 <h2 align="center">📊 GitHub Info</h2>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=SoulHiro&theme=dark&hide_border=true&short_numbers=true"
-      height="165"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 <!-- <p align="center">
