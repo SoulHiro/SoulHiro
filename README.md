@@ -80,16 +80,23 @@
 <!-- Stats -->
 <h2 align="center">📊 GitHub Info</h2>
 
-<div style="display: flex; gap: 12px;">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
-    style="width: 50%;"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
-    style="width: 50%;"
-  />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/SoulHiro/SoulHiro/output/github-snake-dark.svg" alt="Contribution Snake" />
