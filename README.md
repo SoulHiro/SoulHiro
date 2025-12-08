@@ -80,16 +80,16 @@
 <!-- Stats -->
 <h2 align="center">📊 GitHub Info</h2>
 
-<p align="center">
+<div style="display: flex; gap: 12px;">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
-    height="165"
+    style="width: 50%;"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
-    height="165"
+    style="width: 50%;"
   />
-</p>
+</div>
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/SoulHiro/SoulHiro/output/github-snake-dark.svg" alt="Contribution Snake" />
