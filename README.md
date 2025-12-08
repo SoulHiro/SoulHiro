@@ -80,18 +80,20 @@
 <!-- Stats -->
 <h2 align="center">📊 GitHub Info</h2>
 
-<img
+<!--  <img
   src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
   align="left"
   width="48%"
   border="none"
-/>
+/> -->
 
+<p align="center">
 <img
   src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
-  align="right"
-  width="48%"
+  align="center"
+  width="50%"
 />
+</p>
 
 
 <!-- <p align="center">
