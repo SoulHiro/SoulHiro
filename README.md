@@ -80,22 +80,18 @@
 <!-- Stats -->
 <h2 align="center">📊 GitHub Info</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-readme-stats-fast.vercel.app/api?username=SoulHiro&show_icons=true&theme=tokyonight"
+  align="left"
+  width="48%"
+  border="none"
+/>
+
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/streak?username=SoulHiro&theme=tokyonight"
+  align="right"
+  width="48%"
+/>
 
 
 <!-- <p align="center">
