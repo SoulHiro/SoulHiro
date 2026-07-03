@@ -50,6 +50,34 @@
 
 <!-- Projeto 1 -->
 <p align="center">
+  <a href="https://github.com/SoulHiro/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Portfolio</b> — my personal portfolio, built with <b>Next.js</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>.  
+  Focused on <b>performance</b>, <b>clean UI/UX</b>, and showcasing my projects and skills in an organized, professional way.
+</p>
+
+---
+
+<!-- Projeto 2 -->
+<p align="center">
+  <a href="https://github.com/SoulHiro/Port-Agent-Hub" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Integration%20Hub-6E56CF?style=for-the-badge&logo=fastapi&logoColor=white" alt="AI Integration Hub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>AI Integration Hub</b> — a hub for connecting and orchestrating AI agents, integrating different services and data sources through a unified backend.  
+  Built with a focus on <b>API integrations</b>, <b>data flow between systems</b>, and a clean, maintainable architecture.
+</p>
+
+---
+
+<!-- Projeto 3 -->
+<p align="center">
   <a href="https://doutorespalhacos.com/" target="_blank">
     <img src="https://img.shields.io/badge/Doutores%20Palhaços-FF4B4B?style=for-the-badge&logo=clownfish&logoColor=white" alt="Doutores Palhaços" />
   </a>
@@ -62,7 +90,7 @@
 
 ---
 
-<!-- Projeto 2 -->
+<!-- Projeto 4 -->
 <p align="center">
   <a href="https://github.com/SoulHiro/doutor-agenda" target="_blank">
     <img src="https://img.shields.io/badge/Doutor%20Agenda-1E90FF?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Doutor Agenda" />
