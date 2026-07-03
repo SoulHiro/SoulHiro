@@ -38,10 +38,10 @@
 
 <!-- Habilidades -->
 <h2 align="center">🧠 Languages · Frameworks · Tools</h2>
-
+ 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,threejs" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,ps,vscode,github,git,pnpm,discordjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,nodejs,go,python,threejs" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,ps,vscode,github,git,pnpm,discordjs,docker,postman" />
 </p>
 
 ---
